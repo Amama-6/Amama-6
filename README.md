@@ -30,3 +30,9 @@
 - Advanced Flutter
 - Backend Integration
 - UI/UX Design
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amama-6&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amama-6&layout=compact&theme=tokyonight)
